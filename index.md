@@ -5,5 +5,5 @@ I am a website.
 
 Invalid for loop:
 
-{% for i site.pages | where: hi %}
+{% for i site.pages %}
 {% endfor %}
